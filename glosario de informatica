@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glosario de SWT</title>
+
+    <h2>Glosario de Tecnologia</h2>
+    <br>
+        <h4>Elementos de Pseudocódigo</h4> 
+        <br>
+            <ul>
+                <li>Operadores matematicos</li>
+                <ul style= "list-style-type: square;">
+                <li><pre> +   -   *   /   % </pre></li>
+            </ul>
+                <br>
+                <li>Signos de puntacion</li>
+                <ul style= "list-style-type: square;">
+                <li><pre>  .  ;  []</pre></li>
+            </ul>
+                <br>
+                <li>Operadores de asignacion</li>
+                        <ul style= "list-style-type: square;">
+                            <br>
+                        <li>= asignacion</li>
+                        <li>+=  suma + asignacion</li>
+                        <li>-=  resta + asignacion</li>
+                        <li>*=  multiplicacion y asignacion</li>
+                        <li>/=  division y asignacion</li>
+                        <li>%=  modulo y asignacion</li>
+                        </ul>
+            <br>                                  
+                <li>Funciones</li>
+                <ul style= "list-style-type: square;">
+                <li>Recibe parámetros y regresa un valor.</li>
+                </ul>
+                <br>                                  
+                <li>Procedimientos</li>
+                <ul style= "list-style-type: square;">
+                <li>Recibe parámetros pero no regresa ningun valor.</li>
+                </ul>
+            <br>                                  
+                <li> Comentarios</li>
+                <ul style= "list-style-type: square;">
+                <li> // comentario en una sola linea</li>
+                <li>/* */ comentarios para multiples lineas</li>
+                </ul>
+                <br>                                  
+                <li>Constante</li>
+                <ul style= "list-style-type: square;">
+                <li>es un valor que no puede ser alterado/modificado durante la ejecución de un programa, únicamente puede ser leído.</li>
+                </ul>
+                <br>                                  
+                <li>Parámetro</li>
+                <ul style= "list-style-type: square;">
+                <li>es una variable utilizada para recibir valores de entrada.</li>
+                </ul>
+                <br>                                  
+                <li>Variable</li>
+                <ul style= "list-style-type: square;">
+                <li>es un elemento de datos con nombre cuyo valor puede cambiar durante el curso de la ejecución de un programa.</li>
+                </ul>
+                <br>                                  
+                <li>Objeto</li>
+                <ul style= "list-style-type: square;">
+                <li>es una unidad dentro de un programa informático que tiene un estado, y un comportamiento. 
+                    Es decir, tiene una serie de datos almacenados y tareas que realiza con esos datos en el tiempo de ejecución.</li>
+                </ul>
+                <br>                                  
+                <li>Foreach</li>
+                <ul style= "list-style-type: square;">
+                <li>ejecuta una instrucción o un bloque de instrucciones para cada elemento.</li>
+                </ul>
+                <br>                                  
+                <li>Array</li>
+                <ul style= "list-style-type: square;">
+                <li>es un tipo de dato estructurado que permite almacenar un conjunto de datos homogeneo, es decir, todos ellos del mismo tipo y relacionados.</li>
+                </ul>
+                <br>                                  
+                <li>Do while</li>
+                <ul style= "list-style-type: square;">
+                <li>La sentencia do-while se utiliza para especificar un ciclo condicional que se ejecuta al menos una vez.</li>
+                </ul>
+                <br>                                  
+                <li>While</li>
+                <ul style= "list-style-type: square;">
+                <li>El propósito es repetir un bloque de código mientras una condición se mantenga verdadera.</li>
+                </ul>
+                <br>                                  
+                <li>For</li>
+                <ul style= "list-style-type: square;">
+                <li>se usa cuando queremos repetir un conjunto de instrucciones un número finito de veces.</li>
+                </ul>
+                <br>                                  
+                <li>String</li>
+                <ul style= "list-style-type: square;">
+                <li>(cadena) es una secuencia de caracteres de cero o más caracteres correspondientes al código ASCII. Las cadenas se utilizan para almacenar caracteres individuales, palabras y oraciones completas.
+                </li>
+                </ul>
+                <br>                                  
+                <li>Compilar</li>
+                <ul style= "list-style-type: square;">
+                <li>Traducir en lenguaje máquina un programa escrito en lenguaje simbólico.</li>
+                </ul>
+                <br>                                  
+                <li>Live server</li>
+                <ul style= "list-style-type: square;">
+                <li>La extensión crea un servidor local (localhost) para ejecutar el sitio web, por lo tanto, puedes ejecutar código que requiera de servidor. Haz algunos cambios en tu código, podrás ver reflejado los cambios automáticamente en el explorador.</li>
+                </ul>
+                <br>                                  
+                <li>Git</li>
+                <ul style= "list-style-type: square;">
+                <li>Git es una herramienta que realiza una función del control de versiones de código de forma distribuida, de la que destacamos varias características:</li>
+                </ul>
+                <br>                                  
+                <li>Github</li>
+                <ul style= "list-style-type: square;">
+                <li>es un sitio "social coding". Te permite subir repositorios de código para almacenarlo en el sistema de control de versiones Git.</li>
+                </ul>
+                <br>                                  
+                <li>Fork</li>
+                <ul style= "list-style-type: square;">
+                <li>sirve para crear una copia de un repositorio en tu cuenta de usuario. Ese repositorio copiado será básicamente un clon del repositorio desde el que se hace el fork, pero a partir de entonces el fork vivirá en un espacio diferente y podrá evolucionar de manera distinta, a tu propio cargo.</li>
+                </ul><br>                                  
+                <li>Clonar</li>
+                <ul style= "list-style-type: square;">
+                <li>Clonar un repositorio extrae una copia integral de todos los datos del mismo que GitHub.com tiene en ese momento, incluyendo todas las versiones para cada archivo y carpeta para el proyecto.</li>
+                </ul><br>                                  
+                <li>VS plugins</li>
+                <ul style= "list-style-type: square;">
+                <li>Los plugins son pequeños programas complementarios que amplían las funciones de aplicaciones web y programas de escritorio. Por norma general, cuando instalamos un plugin, el software en cuestión adquiere una nueva función. </li>
+                </ul>
+                <br>                                  
+                <li>Hostear</li>
+                <ul style= "list-style-type: square;">
+                <li>Localhost es el nombre comúnmente utilizado para designar el equipo que estamos utilizando. Hace referencia a la computadora o dispositivo que estamos usando en un momento concreto.</li>
+                </ul>
+                <br>                                  
+                <li>IP</li>
+                <ul style= "list-style-type: square;">
+                <li>Las direcciones IP sirven para identificar los dispositivos conectados a internet, también funcionan para ubicar a equipos y portales web juntos a una red.</li>
+                </ul>
+                <br>                                  
+                <li>Concatenar</li>
+                <ul style= "list-style-type: square;">
+                <li>dos cadenas significa crear una tercera cadena cuyo contenido es igual a la suma de las dos originales.</li>
+                </ul>
+                <br>                                  
+                <li>Scope</li>
+                <ul style= "list-style-type: square;">
+                <li>Espacio de existencia de una variable.</li>
+                </ul>
+                <br>                                  
+                <li>Condicional ternario</li>
+                <ul style= "list-style-type: square;">
+                <li>No es más que un condicional if pero con una estructura diferente. </li>
+                </ul>
+                <br>                                  
+                <li>JSON</li>
+                <ul style= "list-style-type: square;">
+                <li>Es un lenguaje usado para el intercambio de datos entre sistemas, está basado en la notación de los literales de objeto de Javascript.</li>
+                </ul>
+                <br>                                  
+                <li>JRE</li>
+                <ul style= "list-style-type: square;">
+                <li>Proporciona las librerías necesarias para la ejecución de las aplicaciones. Ésta es la opción que se utilizaría si sólo se quisiera ejecutar aplicaciones creadas por terceros.</li>
+                </ul>
+                <br>                                  
+                <li>JVM</li>
+                <ul style= "list-style-type: square;">
+                <li>es un entorno de ejecución para aplicaciones Java, cuya principal finalidad es la de adaptar los programas Java compilados a las características del sistema operativo donde se van a ejecutar.</li>
+                </ul>
+                <br>                                  
+                <li>POO</li>
+                <ul style= "list-style-type: square;">
+                <li>La programación orientada a objetos se basa en el concepto de crear un modelo del problema de destino en sus programas.</li>
+                </ul>
+                <br>                                  
+                <li>JDK</li>
+                <ul style= "list-style-type: square;">
+                <li>Es un software que provee herramientas de desarrollo para la creación de programas en Java.</li>
+                </ul><br>                                  
+                <li>Query</li>
+                <ul style= "list-style-type: square;">
+                <li>Es esa frase o conjunto de palabras literal que introduce una persona en un buscador.</li>
+                </ul>
+                <br>                                  
+                <li>CI/CD</li>
+                <ul style= "list-style-type: square;">
+                <li>es un método para distribuir las aplicaciones a los clientes con frecuencia mediante el uso de la automatización en las etapas del desarrollo de aplicaciones.</li>
+                </ul>
+                <br>                                  
+                <li>Deploy</li>
+                <ul style= "list-style-type: square;">
+                <li>Realizar una instalación de un sistema o aplicación en todos los equipos que lo precisen, tanto en local como en remoto.
+                </li>
+                </ul>
+                <br>                                  
+                <li>Framework</li>
+                <ul style= "list-style-type: square;">
+                <li>Esto significa que ya se ha diseñado un marco y que el desarrollador debe funcionar en ese marco para cumplir con los requisitos de su proyecto.</li>
+                </ul>
+                <br>                                  
+                <li>SOA</li>
+                <ul style= "list-style-type: square;">
+                <li>Es un marco de trabajo conceptual que permite a las organizaciones unir los objetivos de negocio con la infraestructura de TI integrando los datos y la lógica de negocio de sus sistemas separados.</li>
+                </ul>
+                <br>                                  
+                <li>BACKEND</li>
+                <ul style= "list-style-type: square;">
+                <li>Es la parte del desarrollo web que se encarga de que toda la lógica de una página web  funcione.</li>
+                </ul>
+                <br>                                  
+                <li>JAVA</li>
+                <ul style= "list-style-type: square;">
+                <li>Java es un lenguaje de programación orientado a objetos que es muy utilizado para el desarrollo de aplicaciones.</li>
+                </ul>
+                <br>                                  
+                <li>Kernel</li>
+                <ul style= "list-style-type: square;">
+                <li>Es la parte central de un sistema operativo y es el que se encarga de realizar toda la comunicación segura entre el software y el hardware del ordenador.</li>
+                </ul>
+                <br>                                  
+                <li>Unix</li>
+                <ul style= "list-style-type: square;">
+                <li>Es un sistema operativo portable, multitarea y multiusuario.</li>
+                </ul>
+        <br>
+</head>
+<body>
+    
+</body>
+</html>
